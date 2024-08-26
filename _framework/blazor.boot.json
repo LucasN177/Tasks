@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Tasks",
   "resources": {
-    "hash": "sha256-gbOncdCF8fwRoBWPD4fHeKMqvO6+CtXsJSLEOmENgT4=",
+    "hash": "sha256-iMt9Np6+0OPjvHfxjYusTJ+6vA73fZcbYmHP1I2s7fk=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.f21kh7xeo1.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
@@ -210,7 +210,7 @@
       "System.Xml.XmlSerializer.wasm": "sha256-iZX5Xjo0skidhFDoNfUIqMlZqB3zFEGMajfc9f+mVMY=",
       "System.Xml.XPath.wasm": "sha256-tmvGoqY45mWRfnyzKlIfCsMcXtnDlsCqTTCGyuXNWDo=",
       "System.Xml.XPath.XDocument.wasm": "sha256-GFs0vFq1eKd1eltpZMMWwTxDACj8KsI1c9laXzRQ29U=",
-      "Tasks.wasm": "sha256-BnSXBH67NtdaZZwz5e8DUO4LMsZyIXKUW/KbxZqeX2c=",
+      "Tasks.wasm": "sha256-3Jyyt7Cny1mWNmBsSELm/uZjc20NtMM6nRS1nNF/Xek=",
       "WindowsBase.wasm": "sha256-npWO0LzAT+OQxLJw+AC93dLf22phQq3BNNoq96h0jBE="
     }
   },
